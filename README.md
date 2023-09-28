@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikrant
-
+[![An image of @v1kr4nt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/v1kr4nt)](https://holopin.io/@v1kr4nt)
 <!---
 v1kr4nt/v1kr4nt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
